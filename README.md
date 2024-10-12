@@ -3,7 +3,7 @@
 Soy un aprendiz apasionado de la programación con un hambre insaciable de conocimiento. Actualmente, me encuentro en un camino de constante aprendizaje, siempre buscando mejorar mis habilidades y profundizar en nuevas tecnologías. Mi objetivo es convertirme en un gran programador, capaz de enfrentar cualquier desafío que se me presente.
 
 ### ¿Qué tecnologías manejo?
-<table>
+<table style="border: none;">
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/><br><sub><b>C#</b></sub>
