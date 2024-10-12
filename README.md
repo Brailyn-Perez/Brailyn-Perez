@@ -12,6 +12,6 @@ Estoy emocionado por cada paso que doy hacia mi crecimiento como desarrollador y
 
 <p>
   <a href="mailto:BrailynPerezbatista@gmai.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
   </a>
 </p>
