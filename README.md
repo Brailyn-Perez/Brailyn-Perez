@@ -17,7 +17,7 @@ Estoy emocionado por cada paso que doy hacia mi crecimiento como desarrollador y
   <a href="https://www.instagram.com/brailyn_y_lyn/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light"/>
   </a>
-  <a href="www.linkedin.com/in/brailyn-perez-a385b725a" target="_blank">
+  <a href="https://www.linkedin.com/in/brailyn-perez-a385b725a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
   
