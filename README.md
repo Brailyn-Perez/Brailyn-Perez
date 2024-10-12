@@ -11,7 +11,7 @@ Estoy emocionado por cada paso que doy hacia mi crecimiento como desarrollador y
 ### Contacto
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="mailto:BrailynPerezbatista@gmai.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
