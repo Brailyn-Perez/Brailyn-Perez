@@ -12,6 +12,9 @@ Soy un aprendiz apasionado de la programación con un hambre insaciable de conoc
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/><br><sub><b>.NET</b></sub>
     </td>
     <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Dotnet-logo.svg" title="ASP.NET Core Web API" alt="ASP.NET Core Web API" width="40" height="40"/><br><sub><b>ASP.NET Core Web API</b></sub>
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/><br><sub><b>Java</b></sub>
     </td>
     <td align="center" width="100">
@@ -23,6 +26,7 @@ Soy un aprendiz apasionado de la programación con un hambre insaciable de conoc
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/><br><sub><b>SQL Server</b></sub>
     </td>
+    
   </tr>
 </table>
 
