@@ -10,27 +10,8 @@ Estoy emocionado por cada paso que doy hacia mi crecimiento como desarrollador y
 
 ### Contacto
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://www.facebook.com/your_profile" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/facebook-new.png" title="Facebook" alt="Facebook"/>
-      </a><br><sub><b>Facebook</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://www.instagram.com/your_profile" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram" alt="Instagram"/>
-      </a><br><sub><b>Instagram</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="mailto:your_email@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" title="Gmail" alt="Gmail"/>
-      </a><br><sub><b>Gmail</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://www.linkedin.com/in/your_profile" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
-      </a><br><sub><b>LinkedIn</b></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
