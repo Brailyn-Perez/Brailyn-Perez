@@ -14,7 +14,11 @@ Estoy emocionado por cada paso que doy hacia mi crecimiento como desarrollador y
   <a href="mailto:BrailynPerezbatista@gmai.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
   </a>
-    <a href="https://www.instagram.com/brailyn_y_lyn/">
+  <a href="https://www.instagram.com/brailyn_y_lyn/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light"/>
   </a>
+  <a href="www.linkedin.com/in/brailyn-perez-a385b725a">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
+  </a>
+  
 </p>
