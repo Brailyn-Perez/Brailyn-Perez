@@ -4,7 +4,7 @@ Soy un aprendiz apasionado de la programación con un hambre insaciable de conoc
 
 ### Tecnologías que manejo:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,java,html,css&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,java,html,css&theme=light)
 
 Estoy emocionado por cada paso que doy hacia mi crecimiento como desarrollador y siempre dispuesto a aprender más. ¡La programación es mi pasión y mi futuro!
 
