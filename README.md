@@ -10,6 +10,7 @@ Actualmente, estoy expandiendo mis conocimientos en el área **DevOps**, fortale
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,docker,azure,rabbitmq&theme=light)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azure DevOps"/>
 
 💡 Experiencia con **MassTransit** para comunicación entre microservicios utilizando **RabbitMQ**.  
 💡 Fuerte enfoque en **Clean Architecture**, **Domain-Driven Design (DDD)** y **Buenas prácticas de desarrollo**.
